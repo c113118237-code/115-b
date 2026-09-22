@@ -7,4 +7,11 @@
 
  *Never gonna give you up*  
 [傳世經典](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-![偉人](.rick.jpg)
+![偉人](rick.jpg)
+> 阿德勒:
+>>「*這件事與我無關，那是他的課題。*」
+
+|背景|內容|
+|:----|:-----------------|
+|學歷|目前就讀於高雄科技大學資管系|
+|工作經驗|無|

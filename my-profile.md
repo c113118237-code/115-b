@@ -15,3 +15,14 @@
 |:----|:-----------------|
 |學歷|目前就讀於高雄科技大學資管系|
 |工作經驗|無|
+
+```python
+def greet(name):
+    # 這是一個簡單的問候函數
+    message = f"Hello, {name}! 歡迎來到現代哲學世界。"
+    print(message)
+    return message
+
+# 執行函數
+greet("GitHub 夥伴")
+```

@@ -7,3 +7,4 @@
 
  *Never gonna give you up*  
 [傳世經典](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+![偉人](.rick.jpg)
